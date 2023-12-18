@@ -1,1 +1,2 @@
-
+git rm nombre_del_archivo
+git commit -m "Eliminar archivo UNIT 2"
